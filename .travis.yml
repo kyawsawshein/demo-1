@@ -14,4 +14,4 @@ branches:
 deploy:
   provider: heroku
   api_key: 5145f598-083d-43c4-a3de-1a931642ae65
-  app: demo1mep
+  app: demokss
